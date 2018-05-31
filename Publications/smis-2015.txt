@@ -1,0 +1,19 @@
+Voila les publis A de SMIS en 2015 :
+
+# C. To, B. Nguyen, P. Pucheral. ‘Private and Scalable Execution of SQL Aggregates on a Secure Decentralized Architecture’, ACM Transaction on Database Systems (TODS), to appear. (March 2016)
+
+C. To, B. Nguyen, P. Pucheral. ‘TrustedMR: A Trusted MapReduce System based on Tamper Resistance Hardware'. Proc. of the 23th International Conference on Cooperative Information Systems (CoopIS), Rhodes, pp 38-56, October 2015.
+
+S. Lallali, N. Anciaux, I. Sandu Popa, P. Pucheral. ‘A Scalable Search Engine for Mass Storage Smart Objects'. Proc. of the 41th International Conference on Very Large Data Bases (VLDB), Hawaï, PVLDB 8(9): pp 910-921, September 2015.
+
+S. Lallali, N. Anciaux, I. Sandu Popa, P. Pucheral. ‘A Secure Search Engine for the Personal Cloud '. Proc. of the 34th ACM SIGMOD International Conference on Management of data, Demo paper, Melbourne, Australia, pp 1445-1450, May 2015.
+
+D. H. Ton That, I. Sandu Popa, K. Zeitouni. TRIFL: A Generic Trajectory Index for Flash Storage, in "ACM Transactions on Spatial Algorithms and Systems", vol. 1, no 2, 44 pages, July 2015.
+
+Et les thèses soutenues :
+C. Q. TO. Privacy-Preserving Query Execution using Tamper Resistant Hardware. Design and Performance Considerations, Université de Versailles Saint-Quentin-en-Yvelines, September 2015.
+
+Amicalement,
+
+Philippe
+

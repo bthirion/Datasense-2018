@@ -1,0 +1,29 @@
+Bonjour,
+
+Voici une traduction de notre rapport d'activité INRIA, partie
+"Highlights", suivi des publications :
+
+Equipe-Projet AVIZ : Visualisation et Interaction
+
+Nous avons eu plusieurs résultats marquant cette année :
+- Aviz a contribué à 29 publications en 2015. Parmi celles-ci, 7 ont été présentées à la conférence IEEE VIS, la conférence la plus importante dans le domaine de la visualisation. 4 articles ont été présentés à ACM CHI, la conférence la plus prestigieuse en interaction Homme-machine ;
+- Des chercheurs d'Aviz ont organisés deux workshops et un cours dans des conférences internationales (ACM ITS et IEEE VIS) ;
+- 8 récompenses ont été attribuées à des membres d'Aviz pour des articles de recherche, des services à la communauté, et des thèses ;
+- Aviz a accueilli trois chercheurs et étudiants internationaux pour des collaborations ;
+- Des chercheurs d'Aviz ont enseigné dans quatre institutions internationales.
+
+Récompenses
+
+- Samuel Huron a reçu le prix de la meilleure thèse donné par le IEEE VGTC Vis Pioneer Group pour sa thèse intitulée ``Constructive Visualization: A Token-based Paradigm Allowing to Assemble Dynamic Visual Representation for Non-experts''
+- Jeremy Boy a reçu une mention honorable par le IEEE VGTC Vis Pioneer Group Best pour sa thèse intitulée ``Engaging the People to Look Beyond the Surface of Online Information Visualizations''
+- Jean-Daniel Fekete a reçu un "service award" de IEEE TVCG pour l'organisation de VIS'14 à Paris
+- Petra Isenberg et Tobias Isenberg ont reçu de IEEE Computer Society un "Certificate of Appreciation" pour avoir co-organisé le workshop BELIV 2014 ``Beyond Time And Errors: Novel Evaluation Methods For Visualization''
+- Wesley Willet, Tobias Isenberg, et Pierre Dragicevic ont reçu le prix du meilleur article à la conférence ACM Conference on Human Factors in Computing Systems (CHI) pour leur article ``Lightweight Relief Shearing for Enhanced Terrain Perception on Interactive Maps''
+- Charles Perin, Jeremy Boy et Frédéric Vernier ont reçu une honorable mention (2nd prix) pour la visualisation ``Le Tour de France at a Glance'' dans la compétition internationale de visualisation IEEE VGTC/VPG
+- Jeremy Boy a gagné la compétition de Data Visualisation du "World Statistics Day 2015" de des Nations Unies avec son site en ligne ``Is the World a Better Place Today?''.
+
+Publications 2015 :
+le bibex des publications de rang A d'Aviz est en attachement.
+
+Bien cordialement,
+Jean-Daniel

@@ -1,0 +1,14 @@
+En PJ ma moisson. Je n'ai rien reçu du LIX.
+
+Je mettrais volontiers en avant 3 choses:
+- les deux articles de Yann Olivier sur les DNN pour leur profondeur
+ Riemannian metrics for neural networks I et II
+- le papier Parietal / TPT à cause du sujet
+ Data-driven HRF estimation for encoding and decoding models
+
+- un des papiers de CVN / INRIA / CentraleSupélec par exemple
+A Framework for Efficient Structured Max-Margin Learning of High-Order MRF models
+
+cordialement
+
+F

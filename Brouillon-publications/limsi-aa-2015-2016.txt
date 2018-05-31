@@ -1,0 +1,26 @@
+Pour AA, domaine de l’Interaction (comme nous l’avons interprété)
+
+ 
+
+Publications (journaux, chapitres) rang A majores en 2015
+
+·         B. Postma, B. Katz, Creation and calibration method of virtual acoustic models for historic auralizations, Virtual Reality, 2015, 1-20, DOI : 10.1007/s10055-015-0275-3
+·         L. Feugère, C. d'Alessandro, Contrôle gestuel de la voix de synthèse : instruments Cantor Digitalis et Digitartic, Traitement du Signal, 2015, vol. 32, n°4, 417-442, DOI : 10.3166/TS.32.417-442
+·         P. Luizard, B. Katz, C. Guastavino, Perceived suitability of reverberation in large coupled volume concert halls, Psychomusicology: Music, Mind and Brain, vol. 25, n°SI: Performance Spaces for Music: Psychological and Acoustic Measures and Interactions, 317–325, (2015) DOI : 10.1037/pmu0000109
+·         J. A. de Moraes, A. Rilliard, Prosody and Emotion. In Armstrong, M., Henriks, N. & del Mar, M. (Eds.), Interdisciplinary approaches to intonational grammar in Ibero-Romance, Amsterdam : John Benjamins Publisher, 135-152, (2015)
+·         P. Boula De Mareüil, A. Rilliard, I. Lehka-Lemarchand, P. Mairano, J. Lai. Falling yes/no questions in Corsican French and Corsican: evidence for a prosodic transfer. In E. Delais-Roussarie et al. (Eds.), Prosody and Language in Contact, Springer-Verlag, 101-122, (2015).
+·         D. Doukhan, S. Rosset, A. Rilliard, C. d'Alessandro, M. Adda-Decker, The GV-LEx corpus of tales in French, Language Resources and Evaluation, 2015, vol. 49, n°3, 521-547, DOI : 10.1007/s10579-015-9306-7
+
+Publications (journaux, chapitres) rang A majores en 2016
+
+·         A. Andreopoulou, B. Katz, Investigation of perceptual interaural time difference evaluation protocols in a binaural context, Acta Acustica united with Acustica, 2016, vol. 102, n°1, 129-140, DOI : 10.3813/AAA.918930
+·         A. Andreopoulou, B. Katz, Subjective HRTF evaluations for obtaining global similarity metrics of assessors and assessees, Journal on Multimodal User Interfaces, 2016, 1-13, DOI : 10.1007/s12193-016-0214-y
+
+ 
+
+ 
+
+Récompenses
+
+·         « Cantor Digitalis », 1ère Prix du Guthman Musical Instrument Competition, 2015
+

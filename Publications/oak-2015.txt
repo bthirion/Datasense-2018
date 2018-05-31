@@ -1,0 +1,73 @@
+Voici les publications A (et A*) de OAK en 2015. Je mets une (*)
+devant celles qui me semblent à mettre particulièrement en avant.
+
+Il y a aussi du Bibtex pour tout ça, et des liens HAL...
+tout est là (si vous fixez le choix d'un certain format pour tout le monde):
+https://team.inria.fr/oak/publications/
+
+Bon courage!
+
+Ioana
+
+
+(*) PAXQuery: Efficient Parallel Processing of Complex XQuery.
+Jesús Camacho-Rodríguez, Dario Colazzo, Ioana Manolescu
+IEEE Transactions on Knowledge and Data Engineering, Institute of
+Electrical and Electronics Engineers, 2015, 27 (7), pp.1977 – 1991
+
+Reformulation-based query answering in RDF: alternatives and performance.
+Damian Bursztyn, François Goasdoué, Ioana Manolescu Very Large Data
+Bases, Aug 2015, Hawaii, United States.
+
+Query-Oriented Summarization of RDF Graphs.
+Šejla Čebirić, François Goasdoué, Ioana Manolescu Proceedings of the
+VLDB Endowment, Aug 2015, Kohala Coast, Hawaii, United States. 8 (12)
+
+EFQ: Why-Not Answer Polynomials in Action.
+Nicole Bidoit, Melanie Herschel, Katerina Tzompanaki
+41st International Conference on Very Large Data Bases – VLDB 2015,
+Aug 2015, Hawai, United States
+
+PAXQuery: Parallel Analytical XML Processing.
+Jesús Camacho-Rodríguez, Dario Colazzo, Ioana Manolescu, Juan A. M.
+NaranjoACM SIGMOD International Conference on Management of Data 2015,
+May 2015, Melbourne, Victoria, Australia. pp.1117-1122
+
+(*) Skyline Queries with Noisy Comparisons.
+Benoit Groz, Tova Milo
+ACM SIGMOD/PODS, May 2015, Melbourne, Australia.
+
+(*) Optimizing Reformulation-based Query Answering in RDF.
+Damian Bursztyn, François Goasdoué, Ioana Manolescu
+EDBT: 18th International Conference on Extending Database Technology,
+Mar 2015, Brussels, Belgium.
+
+(*) A Network-Aware Approach for Searching As-You-Type in Social Media.
+Paul Lagrée, Bogdan Cautis, Hossein Vahabi
+24th ACM International Conference on Information and Knowledge
+Management – CIKM 2015, Oct 2015, Melbourne, Australia. 2015
+
+(*) Efficient Computation of Polynomial Explanations of Why-Not Questions.
+Nicole Bidoit, Melanie Herschel, Aikaterini Tzompanaki, 24th ACM
+International Conference on Information and Knowledge Management –
+CIKM 2015, Oct 2015, Melbourne, Australia.
+
+Reasoning on Web Data: Algorithms and Performance.
+Damian Bursztyn, François Goasdoué, Ioana Manolescu, Alexandra
+RoatisICDE – 31st International Conference on Data Engineering, Apr
+2015, Seoul, South Korea. 2015,
+
+(*) CliqueSquare: Flat Plans for Massively Parallel RDF Queries.
+François Goasdoué, Zoi Kaoudi, Ioana Manolescu, Jorge-Arnulfo
+Quiané-Ruiz, Stamatis Zampetakis
+International Conference on Data Engineering, Apr 2015, Seoul, South Korea
+
+CliqueSquare in Action: Flat Plans for Massively Parallel RDF Queries.
+Benjamin Djahandideh, François Goasdoué, Zoi Kaoudi, Ioana Manolescu,
+Jorge-Arnulfo Quiané-Ruiz, Stamatis ZampetakisInternational Conference
+on Data Engineering, Apr 2015, Seoul, South Korea
+
+(*) Invisible Glue: Scalable Self-Tuning Multi-Stores.
+Francesca Bugiotti, Damian Bursztyn, Alin Deutsch, Ioana Ileana, Ioana Manolescu
+Conference on Innovative Data Systems Research (CIDR), Jan 2015,
+Asilomar, United States

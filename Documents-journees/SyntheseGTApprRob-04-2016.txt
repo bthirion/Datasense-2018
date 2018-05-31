@@ -1,0 +1,35 @@
+1. résumé de la thématique
+
+L’objectif de ce groupe de travail est de développer des actions communes entre les membres de Digicosme intéressés par les thématiques de l’apprentissage et de la robotique. En particulier, nous souhaitons faire se rencontrer des personnes travaillant sur des aspect plutôt théorique de l’apprentissage et des personnes travaillant sur des aspects plus pratiques en robotique. Nous avons en particulier dégagé deux thèmes d'intérêt:
+- Apprentissage par renforcement : En particulier nous nous intéressons à l'apprentissage  à partir de préférences entre exemples, fournies par interaction avec l’humain : Comment reconstruire une fonction de cout globale à partir de préférences relatives ? Comment minimiser le besoin en exemples qui sont couteux à acquérir ?
+- Lien avec les données massives : Comment mieux exploiter les données d’apprentissage recueillies par un robot, en lien avec l’apprentissage profond, par exemple comment apprendre des caractéristiques visuelles pertinentes lors de l'apprentissage d'une tâche de manipulation ? 
+
+
+2. activités réalisées (depuis le début du labex)
+
+Organisation de trois séminaires, réunissant 6 conférenciers :
+- Sylvain Calinon (Idiap, Suisse): Robot learning by imitation, emulation and exploration
+- Ludovic Righetti (Max Planck Institute for Intelligent Systems, Allemagne): Exploiting and controlling contact interactions for locomotion and manipulation tasks
+- Pierre-Yves Oudeyer (INRIA, Bordeaux): curiosité et apprentissage actif en robotique. 
+- Olivier Sigaud (ISIR, Paris): Apprentissage profond pour la robotique
+- Alain Droniou (DGA, Rennes): Apprentissage de représentations et robotique développementale : quelques apports de l'apprentissage profond pour la robotique autonome
+- Antonin Bertin (ISIR, Paris): Apprentissage de transformations dans un flux vidéo 
+
+Nous avons également financé le stage de Guillaume Doquet, co-encadré entre le LRI et l'ENSTA ParisTech : Apprentissage par feedback en robotique : découverte de sous-comportements.
+
+3. indicateurs de résultats (co-publications, co-encadrements, 
+organisation conjointe d'événements, dépôts conjoints de projets ANR ou 
+autres, etc.)
+
+Un stage de Master co-encadré a été réalisé entre le LRI et l'ENSTA ParisTech. 
+
+Une thèse a été lancée : Guillaume Doquet, Apprentissage par Renforcement Interactif
+
+Deux projets de thèses ont été soumis :
+- DDARO : Deep Domain Adaptation for Robotics - soumis à l'aap Digicosme 2016 par le LRI et l'ENSTA ParisTech
+- Contextualisation automatique rapide des traitements de reconnaissance visuelle d'objet : demande de bourse ONERA/DGA 2016 par l'ONERA et l'ENSTA ParisTech
+
+
+4. perspectives d'évolution dans les thématiques ou dans les actions
+
+Nous poursuivons les séminaires autour de ces deux thématiques, avec un renforcement de l'aspect apprentissage profond en robotique qui interesse la plupart des partenaires. Nous allons également renforcer l'implication des différents partenaires en organisant des séances de travail orientées autour des présentations des travaux des différents partenaires. 

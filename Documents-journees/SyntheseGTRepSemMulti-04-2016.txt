@@ -1,0 +1,49 @@
+1. résumé de la thématique
+
+La représentation sémantique des mots ou d'unités plus larges telles que des expressions, des phrases ou des textes est un point clé pour de nombreuses tâches en Traitement Automatique des Langues (TAL). Le Groupe de Travail Représentations Sémantiques Multilingues se propose d'explorer différents aspects de ces représentations sémantiques dans la perspective de l'amélioration de la qualité des résultats des processus de TAL. Ces aspects concernent spécifiquement : 
+
+- la capacité à apprendre des représentations sémantiques de façon non supervisée à partir de corpus non annotés, en particulier dans le contexte des représentations apprises par les réseaux de neurones profonds (Deep Learning) ;
+
+- l'intérêt de l'utilisation de ces représentations dans des systèmes d’apprentissage supervisé pour un nombre grandissant de tâches et l'articulation entre ces représentations et l'usage qui en est fait ;
+
+- l'apprentissage de représentations communes à plusieurs langues ;
+
+- l'articulation entre les représentations apprises à partir de corpus et celles reposant sur des connaissances construites manuellement.
+
+
+2. activités réalisées (depuis le début du labex)
+
+Organisation de cinq séminaires + 1 séminaire conjoint avec le GT Réseaux profonds (2014-2016) :
+- Slav Petrov (Google NYC, USA) : Towards Universal Syntactic Processing of Natural Language
+- Stephan Gouws (invité du GT Réseaux profonds) : Training Neural Word Embeddings for Transfer Learning and Translation
+- Fabian Suchanec (LTCI, Paris-Saclay) : A Hitchhiker's Guide to Ontology
+- Ivan Vulic (KULeuven, Belgique) : Modeling Cross-Lingual Semantic Similarity based on Latent Cross-Lingual Concepts
+- Roberto Navigli (Sapienza University of Rome, Italie) : Représentations vectorielles latentes et explicites pour la similarité de mots, la désambiguïsation et la liaison entre ressources
+- Marine Carpuat (University of Maryland, USA) : Modéliser et utiliser les divergences dans les corpus parallèles
+
+Organisation de trois réunions de travail en dehors des séminaires.
+
+Financement d'un stage de Master co-encadré entre le groupe Iles du LIMSI et le laboratoire LVIC du CEA LIST.
+
+3. indicateurs de résultats (co-publications, co-encadrements, 
+organisation conjointe d'événements, dépôts conjoints de projets ANR ou 
+autres, etc.)
+
+1 stage de Master
+- stage de Yunhe Wu sur le thème "Combinaison de méthode distributionnelle et d’extraction terminologique pour l’adaptation de ressources terminologique", co-encadré entre le LIMSI et le CEA LIST
+
+
+2 dépôts de projets ANR
+- projet franco-allemand ANR-DFG (GoAsq) sur la modélisation et la résolution de requêtes ontologiques sur des données médicales semi-structurées (LRI et LIMSI/ILES)
+
+- pré-proposition de projet ANR ADDICTE (Analyse distributionnelle en domaine de spécialité) (CEA LIST, LIMSI/ILES, LINA (Nantes), CLLE-ERSS (Toulouse))
+
+2 autres dépôts
+- sujet de thèse sur le thème du GT (TermDist : CEA LIST/LIMSI)
+
+- proposition de GT (D2K, de la donnée à la connaissance, LRI/INRA) acceptée lors du dernier appel DigiCosme
+
+
+4. perspectives d'évolution dans les thématiques ou dans les actions
+
+L'année 2016 verra se poursuivre les séminaires (1 a déjà eu lieu en mars) et 2 propositions de stage de master ont été faites. Des liens forts existent par ailleurs avec deux autres groupes de travail et seront poursuivis : avec le GT Réseaux profonds, au travers de séminaires concernant l'application des réseaux profonds aux problématiques du TAL (cf. le séminaire de Stephan Gouws mais également ceux d'Edward Grefenstette et d'Antoine Bordes) ; avec le GT D2K, sur la problématique des connaissances, qui se traduit également par une implication dans la proposition d'IRS B2SRI.

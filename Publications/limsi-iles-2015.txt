@@ -1,0 +1,26 @@
+Groupe ILES, 2015
+
+Sélection de revues internationales
+A. Ben Abacha, F. Chowdhury, A. Karanasiou, R. Messai, A. Lavelli, P. Zweigenbaum, Text Mining for Pharmacovigilance: Using Machine Learning for Drug Name Recognition and Drug-Drug Interaction Extraction and Classification, Journal of Biomedical Informatics, 2015, 34, URL : http://www.sciencedirect.com/science/article/pii/S1532046415002099, DOI : 10.1016/j.jbi.2015.09.015
+A. Ben Abacha, P. Zweigenbaum, MEANS: A medical question-answering system combining NLP techniques and semantic Web technologies, Information Processing & Management, 2015, vol. 51, n°5, 570-594, URL : http://dx.doi.org/10.1016/j.ipm.2015.04.006, DOI : 10.1016/j.ipm.2015.04.006
+M. Filhol, M. Hadjadj, B. Testu, A rule triggering system for automatic text-to-Sign translation, Universal Access in the Information Society (UAIS), 2015, vol. 15, n°4
+C. Grouin, V. Moriceau, P. Zweigenbaum, Combining glass box and black box evaluations in the identification of heart disease risk factors and their temporal relations from clinical records, Journal of Biomedical Informatics, 2015, 10, DOI : 10.1016/jbi.2015.06.014
+T. Lavergne, C. Grouin, P. Zweigenbaum, The contribution of co-reference resolution to supervised relation detection between bacteria and biotopes entities, BMC Bioinformatics, 2015, 38
+A. Rosier, P. Mabo, L. Temal, P. Van Hille, O. Dameron, L. Deléger, C. Grouin, P. Zweigenbaum, J. Jacques, L. Laporte, E. Chazard, C. Henry, A. Burgun, Personalized and Automated Remote Monitoring of Atrial Fibrillation, Europace, 2015, 6, URL : http://dx.doi.org/10.1093/europace/euv234, DOI : 10.1093/europace/euv234
+Y. Xu, A. Max, F. Yvon, Sentence Alignment for Literary Texts, LILT (Linguistic Issues in Language Technology), 2015, vol. 12, n°6, 25 pages, URL : http://csli-lilt.stanford.edu/ojs/index.php/LiLT/article/download/58/54
+
+Sélection de conférences internationales :
+K-H. Nguyen, X. Tannier, O. Ferret, R. Besançon, Generative Event Schema Induction with Entity Disambiguation, 53 Annual Meeting of the Association for Computational Linguistics (ACL 2015), Beijing, China, 26/07 au 30/07, 2015
+M. Gleize, B. Grau, A Unified Kernel Approach For Learning Typed Sentence Rewritings, 53rd Annual Meeting of the Association for Computational Linguistics (ACL 2015), Beijing, 26/07 au 31/07, 2015, 11
+B. Marie, A. Max, Touch-Based Pre-Post-Editing of Machine Translation Output, 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015), Lisbonne, Portugal, 19/09 au 22/09, 2015, 1040-1045
+M. Tapi Nzali, X. Tannier, A. Névéol, Automatic Extraction of Time Expressions Across Domains in French Narratives., Empirical Methods in Natural Language Processing (EMNLP 2015), Lisbon, Portugal, 17/09 - 21/09, 492-498
+
+J. Karoui, F. Benamara, V. Moriceau, N. Aussenac-Gilles, L. Hadrich-Belguith, Towards a Contextual Pragmatic Model to Detect Irony in Tweets, 53 Annual Meeting of the Association for Computational Linguistics (ACL 2015 short papers), Beijing, China, 26/07 au 31/07, 2015
+B. Marie, A. Max, Multi-Pass Decoding With Complex Feature Guidance for Statistical Machine Translation, 53rd Annual Meeting of the Association for Computational Linguistics (ACL 2015 short papers), Beijing, China, 27/07 au 29/07, 2015, 554-559
+
+POUR INTERACTION (ACTION 5 : Interaction et visualisation)
+A. Braffort, M. Filhol, M. Delorme, L. Bolot, A. Choisier, C. Verrecchia, KAZOO: A Sign Language Generation Platform Based on Production Rules, Universal Access in the Information Society (UAIS), 2015, vol. 15, n°4
+
+
+Distinctions :
+Pierre Zweigenbaum, élu Fellow de l'American College of Medical Informatics (ACMI, 2015)

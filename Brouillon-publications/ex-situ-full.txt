@@ -1,0 +1,76 @@
+Re-bonjour Pierre,
+
+Voici ce qui concerne l’équipe HCC du LRI, qui est aussi la conjonction des équipes communes Inria Ex Situ et ILDA.
+J’ai mis aussi quelques lignes pour l’equipes Digiscope (dont j’ai soumis le rapport annuel ANR hier , si ça vous parait pertinent. 
+
+Je peux traduire les parties en anglais (j’ai simplement copié-collé de notre rapport Inria).
+Je n’ai mis que les publis majeures qui sont datées de 2015. Dis-moi si tu veux aussi celles qui sont acceptées mais seront publiées en 2016.
+De même je n’ai pas mentionné l’ERC Advanced Grant que j’ai soumise l’an dernier et dont j’ai reçu l’acceptation la semaine dernière.
+
+J’imagine que vous avez l’info sur les financements de thèse Digicosme ? Il y a en plusieurs dans le thème Interaction-Visualisation,
+mais j’avoue que je ne sais pas bien séparer les Digicosme des Digiteo...
+
+Amicalement,
+michel
+
+
+=== Ex Situ :
+
+Conférences de rang A :
+
+- I. Avellino, C. Fleury & M. Beaudouin-Lafon. Accuracy of Deictic Gestures to Support Telepresence on Wall-sized Displays, in "CHI ’15 Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems", Seoul, South Korea, ACM (editor), ACM Conference on Human Factors in Computing Systems (CHI), April 2015, pp. 2392-2396 [DOI : 10.1145/2702123.2702448], https://hal. archives-ouvertes.fr/hal-01242676
+
+- G. Jalal, N. Maudet & W. E. Mackay. Color Portraits: From Color Picking to Interacting with Color, in "Proceedings of the ACM International Conference on Human Factors in Computing Systems, 2015", Seoul, South Korea, May 2015 [DOI : 10.1145/2702123.2702173], https://hal.archives-ouvertes.fr/hal-01226494
+
+- C. Klokmose, J. Eagan, S. Baader, W. Mackay & M. Beaudouin-Lafon. Webstrates: Shareable Dynamic Media, in "ACM Symposium on User Interface Software and Technology (UIST)", Charlotte, United States, ACM (editor), UIST ’15 Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology, November 2015, pp. 280-290 [DOI : 10.1145/2807442.2807446], https://hal. archives-ouvertes.fr/hal-01242672.
+
+- L. Oehlberg, W. Willett & W. E. Mackay. Patterns of Physical Design Remixing in Online Maker Communities, in "CHI 2015", Seoul, South Korea, Proceedings of ACM CHI 2015 Conference on Human Factors in Computing Systems, ACM, April 2015, pp. 639-648 [DOI : 10.1145/2702123.2702175], https:// hal.inria.fr/hal-01263171
+
+- T. Tsandilas, G. Magdalini & S. Huot. BricoSketch: Mixing Paper and Computer Drawing Tools in Professional Illustration, in "International Conference on Interactive Tabletops and Surfaces (ITS’15)", Funchal, Portugal, November 2015, pp. 127-136 [DOI : 10.1145/2817721.2817729], https://hal.archives- ouvertes.fr/hal-01207358
+
+=== Ex Situ et ILDA :
+
+Revue de rang A:
+- M. Nancel, E. Pietriga, O. Chapuis & M. Beaudouin-Lafon. Mid-air Pointing on Ultra-Walls, in "ACM Transactions on Computer-Human Interaction", August 2015, vol. 22, no 5, pp. 21:1–21:62 [DOI : 10.1145/2766448], https://hal.inria.fr/hal-01184544
+
+Conférence de rang A:
+- T. Tsandilas, A. Bezerianos & T. Jacob. SketchSliders: Sketching Widgets for Visual Exploration on Wall Displays, in "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems", Seoul, South Korea, ACM, April 2015, pp. 3255-3264 [DOI : 10.1145/2702123.2702129], https://hal. archives-ouvertes.fr/hal-01144312
+
+=== ILDA :
+
+Revue de rang A:
+- C. Appert, O. Chapuis, E. Pietriga & M-J. Lobo. Reciprocal Drag-and-Drop. ACM Transactions on Computer-Human Interaction (ToCHI), 22(6), Article No. 29, 36 pages, 2015.
+
+Conférence de rang A:
+- M-J. Lobo, E. Pietriga & C. Appert. An Evaluation of Interactive Map Comparison Techniques. In CHI '15: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 3573-3582, ACM, 2015.
+
+=== Faits marquants de 2015 pour ILDA et ExSitu:
+
+- Best paper award @ ACM CHI 2015 pour Klokmose et al. “ Webstrates: Shareable Dynamic Media"
+- Honorable mention @ ACM CHI 2015 pour Jalal et al. "Color Portraits: From Color Picking to Interacting with Color”
+- Honorable mention @ ACM CHI 2015 pour Lobo et al. "An Evaluation of Interactive Map Comparison Techniques"
+- Honorable mention @ ACM CHI 2015 pour Tsandilas et al. "SketchSliders: Sketching Widgets for Visual Exploration on Wall Displays”
+
+- Soutenance de la thèse de Can Liu, financée par le Labex :
+	Can LIU. Embodied Interaction for Data Manipulation Tasks on a Wall-Sized Display, Université Paris-Saclay, Orsay, France, Dec 2015, 166 pages
+	Encadrement : Michel Beaudouin-Lafon, Olivier Chapuis, Eric Lecolinet
+	Article primé à la conférence ACM CHI ‘14
+
+- Michel Beaudouin-Lafon received the ACM SIGCHI Lifetime Service Award, which “goes to individuals who have contributed to the growth and success of SIGCHI in a variety of capacities. This award is for extended services to the community at large over a number of years” (http://www.sigchi.org/about/awards/2015-sigchi- awards).
+
+- Jérémie Garcia received the “Prix Jeune Chercheur Science et Musique”, a best thesis award organized by IRISA (Rennes) and sponsored by the Association Française d’Informatique Musicale for his thesis “”Le papier interactif pour la composition musicale”, supervised by Wendy Mackay, Theophannis Tsandilas and Carlos Agon (IRCAM) (http://jsm.irisa.fr/index.php/prix-jc.
+
+- Nolwenn Maudet received the “Prix Spécial du Jury du premier concours EDUCNUM Opération Vie privée”, organized by CNIL (national commission for informatics and freedom), for her project Data Fiction with Thomas Thibault. This online game is designed to help teenagers better understand how their personal data can be exposed online and how to protect it.
+
+- These are not from 2015 but are ongoing:
+	- Michel Beaudouin-Lafon - membre Senior de l’IUF (2011-2016)
+	- Wendy Mackay - ERC Advanced Grant “CREATIV” (2013-2018)
+
+
+=== Digiscope (http://digiscope.fr):
+
+- Inauguration de la plateforme WILDER (Inria) : mur multitactile de 5m90 par 2m et 69 millions de pixels, constitué de 75 dalles et muni d’un système de suivi de mouvements et d’un système audio 7.1.
+- Installation de la plateforme du CEA : CAVE immersif 5 faces haute résolution avec système de suivi de mouvements et bras haptique.
+
+Ces deux plateformes, installées dans le bâtiment Digiteo Moulon, complètent les 10 plateformes du réseau Digiscope.
+

@@ -1,0 +1,53 @@
+Pour ce dont j'ai connaissance, qui ne concerne que le thème multimédia du laboratoire LVIC.
+
+Pour ce qui est des conférences de rang A ou A* :
+
+Kiem-Hieu Nguyen, Xavier Tannier, Olivier Ferret and Romaric Besançon (2015) Generative Event Schema Induction with Entity Disambiguation. 53rd Annual Meeting of the Association for Computational Linguistics and 7th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2015), p. 188–197, Beijing, China
+
+@InProceedings{nguyen-EtAl:2015:ACL-IJCNLP1,
+  author    = {Nguyen, Kiem-Hieu  and  Tannier, Xavier  and  Ferret, Olivier  and  Besan\c{c}on, Romaric},
+  title     = {Generative Event Schema Induction with Entity Disambiguation},
+  booktitle = {Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
+  month     = {July},
+  year      = {2015},
+  address   = {Beijing, China},
+  publisher = {Association for Computational Linguistics},
+  pages     = {188--197},
+  url       = {http://www.aclweb.org/anthology/P15-1019}
+}
+
+
+Olivier Ferret (2015) Early and Late Combinations of Criteria for Reranking Distributional Thesauri. 53rd Annual Meeting of the Association for Computational Linguistics and 7th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2015), short paper session, p. 470–476, Beijing, China
+
+@InProceedings{ferret:2015:ACL-IJCNLP,
+  author    = {Ferret, Olivier},
+  title     = {Early and Late Combinations of Criteria for Reranking Distributional Thesauri},
+  booktitle = {Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)},
+  month     = {July},
+  year      = {2015},
+  address   = {Beijing, China},
+  publisher = {Association for Computational Linguistics},
+  pages     = {470--476},
+  url       = {http://www.aclweb.org/anthology/P15-2077}
+}
+
+
+C. Oprean, L. Likforman-Sulem, C. Mokbel, A. Popescu. BLSTM-based handwritten text recognition using Web resources, ICDAR 2015 Nancy, France.
+
+@INPROCEEDINGS{7333805,
+author={C. Oprean and L. Likforman-Sulem and C. Mokbel and A. Popescu},
+booktitle={Document Analysis and Recognition (ICDAR), 2015 13th International Conference on},
+title={BLSTM-based handwritten text recognition using Web resources},
+year={2015},
+pages={466-470},
+keywords={Internet;handwritten character recognition;image classification;image segmentation;image sequences;text detection;BLSTM classifiers;Web resources;align filler models;character sequence;confidence score;dynamic dictionaries;handwritten text recognition;line segmentation;text-line recognition;word sequence outputs;Dictionaries;Facsimile;Telecommunications},
+doi={10.1109/ICDAR.2015.7333805},
+month={Aug},}
+
+
+Pour ce qui est des récompenses, l'article suivant a reçu le prix du meilleur article de la 21st International Conference on Multimedia Modelling (MMM2015) :
+
+A. Gînscă, A. Popescu, H. Le Borgne, N. Ballas, D. P. Vo, I. Kanellos, Large-scale Image Mining with Flickr Groups, 21st International Conference on Multimedia Modelling (MMM2015), 5-7 january 2015, Sydney, Australia, 2015.
+
+
+                    Olivier

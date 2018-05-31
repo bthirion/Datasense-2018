@@ -1,0 +1,70 @@
+ltci | telecom paristech - cnrs | infres dpt. | ic2-via group 
+http://www.telecom-paristech.fr/~elc
+
+=== Equipe VIA
+
+En commun avec HCC  :
+ 
+C. Klokmose, J. Eagan, S. Baader, W. Mackay, M. Beaudouin-Lafon. Webstrates: Shareable Dynamic Media. In Proceedings of the ACM Symposium on User Interface Software and Technology (UIST). ACM (2015), pp. 280-290 (Best Paper Award).
+
+Soutenance de la thèse de Can Liu, financée par le Labex :
+	Can LIU. Embodied Interaction for Data Manipulation Tasks on a Wall-Sized Display, Université Paris-Saclay, Orsay, France, Dec 2015, 166 pages
+	Encadrement : Michel Beaudouin-Lafon, Olivier Chapuis, Eric Lecolinet
+	Article primé à la conférence ACM CHI ‘14
+
+
+Par ailleurs:
+
+X. Chen, G. Bailly, D. P. Brumby, A. Oulasvirta, A. Howes. The Emergence of Interactive Behavior: A Model of Rational Menu Search. In Proc. of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). ACM (2015), 4217-4226.
+
+S. T. Perrault, E. Lecolinet, Y. Guiard, Y. Bourse, S. Zhao. Physical Loci: Leveraging Spatial, Object and Semantic Memory for Command Selection. In Proc. of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). ACM  (2015), 299-308.
+
+M. Weigel, T. Lu, G. Bailly, A. Oulasvirta, C. Majidi, J. Steimle. iSkin: Flexible, Stretchable and Visually Customizable On-Body Touch Sensors for Mobile Computing. In Proc. of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI). ACM (2015), 2991-3000 (Best Paper Award).
+
+H. Gacem, G. Bailly, J. Eagan, E. Lecolinet. Finding Objects Faster in Dense Environments using a Projection Augmented Robotic Arm. In Proc. of the IFIP International Conference on Human-Computer Interaction (INTERACT), Lecture Notes in Computer Science, Vol. 9299, Part IV, Springer (2015).
+
+J. Gori, O. Rioul, Y. Guiard. Reconciling Fitts' law with Shannon's information theory. In Proc of European Mathematical Psychology Group Meeting (EMPG 2015), Padua, Italy, Sept. 1-3, 2015.
+
+Y. Guiard, O. Rioul. A mathematical description of the speed/accuracy trade-off of aimed movement. in Proc. of the  British Human Computer Interaction Conference (HCI 2015), Lincoln, UK, 13th-17th July 2015, pp. 91-100.
+
+Q. Roy, Y. Guiard, G. Bailly, E. Lecolinet, O. Rioul. Glass+Skin: An Empirical Evaluation of the Added Value of Finger Identification to Basic Single-Touch Interaction on Touch Screens. In Proc. of IFIP TC.13 International Conference on Human-Computer Interaction (INTERACT). Lecture Notes in Computer Science, Vol. 9299, Part IV, pp. 55-71, Springer, 2015.
+
+
+Equipe GRETA
+
+A. Ben Youssef, M. Chollet, H. Jones, N. Sabouret, C. Pelachaud, M. Ochs. Towards a Socially Adaptive Virtual Agent. In Proc. of Intelligent Virtual Agents (IVA). 2015.
+
+F. Charles, F. Pecune, G. Aranyi, C. Pelachaud, M. Cavazza. ECA Control using a Single Affective User Dimension. In Proc. of ICMI. ACM 2015.
+
+N. Glas, C. Pelachaud. Topic Transition Strategies for an Information-Giving Agent. In Proc. of ENLG, Brighton, UK, 2015.
+
+N. Glas, K. Prepin, C. Pelachaud. Engagement driven Topic Selection for an Information-Giving Agent. SEMDIAL Semantics and Pragmatics of Dialogue. goDIAL. 2015.
+
+M. Ochs, R. Niewiadomski, C. Pelachaud. Facial Expressions of Emotion for Virtual Characters. In Handbook of Affective Computing, R. Calvo, S. DeMelo, A. Kappas, J. Gratch (eds), 2015.
+
+B. Ravenet, A. Cafaro, B. Biancardi, M. Ochs, C. Pelachaud. Conversational Behavior Reflecting Interpersonal Attitudes in Small Group Interactions. In Proc. of Intelligent Virtual Agents (IVA), 2015. (Best Paper Award)
+
+M. Schröder, P. Baggia, F. Burkhardt, C. Pelachaud, C. Peter, E. Zovato. Emotion Markup Language. In Handbook of Affective Computing, R. Calvo, S. DeMelo, A. Kappas, J. Gratch (eds), 2015.
+
+
+Equipe CG
+
+H. Legrand, T. Boubekeur. Morton Integrals for High Speed Geometry Simplification. In Proc. of ACM SIGGRAPH/Eurographics High Performance Graphics 2015.
+
+E. Guy, P. Punpongsanon, T. Boubekeur, D. Iwai and K. Sato. LazyNav: 3D Ground Navigation with Non-Critical Body Parts. In Proc. of IEEE Symposium on 3D User Interfaces (Best Paper Award) 2015
+
+B. Wang, X. Meng, T. Boubekeur. Wavelet Point-Based Global Illumination. Computer Graphics Forum Journal (Proc. EGSR 2015).
+
+
+=== Prix
+
+- Best paper award @ ACM UIST 2015 pour Klokmose et al. “ Webstrates: Shareable Dynamic Media" (avec Ex Situ)
+
+- Best paper award @ ACM CHI 2015 pour Weigel et al. “ iSkin: Flexible, Stretchable and Visually Customizable On-Body Touch Sensors for Mobile Computing "
+
+- Best paper award @ IVA 2015 pour Ravenet et al. " Conversational Behavior Reflecting Interpersonal Attitudes in Small Group Interactions"
+
+- Best Paper Award @ IEEE 3DUI 2015 pour Guy et al. " LaziNav, un nouveau système de navigation 3D de type "mid-air interaction"
+
+- Second Place Winner of the Wolfgang Straßer Award (Best Paper ACM SIGGRAPH/EUROGRAPHICS High Performance Graphics 2015) Legrand et al. pour " High Speed Geometry Simplification "
+

@@ -1,0 +1,58 @@
+Voici quelques éléments (et images) côté LTCI pour la Tâche 5: Interaction and Visualization 
+
+En espérant que cela te sera utile et en m'excusant pour le retard
+
+eric
+-------------------------------------------------------------------------
+ltci | telecom paristech - cnrs | infres dpt. | ic2-via group 
+http://www.telecom-paristech.fr/~elc
+
+
+*** Equipe VIA
+
+Thématique : Interaction Homme-Machine 
+
+techniques d'interaction, interaction gestuelle, interaction mobile et informatique portée, interaction tangible, modèles prédictifs de performance, visualisation de données, réalité augmentée, murs d'écrans, collaboration, interaction multi-surface, boîtes à outils, modèles de programmation des IHMs
+
+Projets : EDISON3D, ACCESSIMAP (ANR) ; CONNEXION (BGLE) ; PRESAGE, QUATRO2  (FUI) ; TWIRL (ITEA) ; Participation Chaire Big Data for Market Insight ; GE Healthcare (CIFRE) ; QUAERO...
+
+Collaborations avec le LRI :
+
+Co-encadrement de thèses :
+- Can Liu (Olivier Chapuis, Michel Beaudouin-Lafon, Eric Lecolinet) - Best paper à la conférence CHI 2014
+- Rafael Morales (Caroline Appert, Gilles Bailly, Emmanuel Pietriga) - Honorable mention Award à la conférence CHI 2016
+- Marc-Emmanuel Perrin (James Eagan, Michel Beaudouin-Lafon)
+- Bruno Fruchard (Eric Lecolinet, Olivier Chapuis)
+- Wanyu Liu (Olivier Rioul, Yves Guiard, Michel Beaudouin-Lafon)
+
+Autres collaborations :
+- Equipex DIGISCOPE et projet DIGIPODS
+- "Webstrates: Shareable Dynamic Media" (Klokmose, C., Eagan, J., Baader, S., Beaudouin-Lafon, M., Mackay, W). Collaboration LRI, LTCI, Aarhus University. Best Paper Award à la conférence UIST 2015.
+
+Perspectives : visualisation de données incertaines, interfaces spatiales, apprentissage expert, toucher, interfaces physiques ou changeant de forme, fabrication numérique...
+
+http://www.telecom-paristech.fr/~via/
+
+
+*** Equipe GRETA
+	
+Thématique : Modélisation d'agents conversationnels socio-émotionnels
+
+Reéalisation : Création dune base de données de gestes d'action expressifs; modélisation d'agents avec attitudes sociales
+
+Collaborations avec le LIMSI
+- Participation à un projet ANR avec le LIMSI (JC Martin)
+- Participation à un projet Européen avec le LIMSI (N Sabouret)
+
+Perspectives : Modélisation de groupes d'agents sociaux
+
+
+*** Equipe Computer Graphics
+
+Thématique :  Informatique graphique 3D 
+
+modéles numériques de forme, de matière, de lumière et de mouvement; méthodes de traitement et d'analyse pour la transformation de données et l'interprétation haut niveau ; algorithmes de simulation pour l'éclairage, l'animation et la perception ; systèmes intéractifs et implémentation parallèle haute performance et/ou temps-réel sur GPU
+
+Projets : ANR iSpace&Time, Chaire MODIM, projets Européens REVERIE et HARVEST4D
+
+Perspectives : application à la RV, l'AR, la fabrication numérique, le Web3D, la 3D mobile et les médias visuels émergents.
