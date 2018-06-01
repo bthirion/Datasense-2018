@@ -1,0 +1,71 @@
+\documentclass[english]{beamer}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage[authoryear]{natbib}
+\usepackage{graphicx}
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Textclass specific LaTeX commands.
+ % this default might be overridden by plain title style
+ \newcommand\makebeamertitle{\frame{\maketitle}}%
+ % (ERT) argument for the TOC
+ \AtBeginDocument{%
+   \let\origtableofcontents=\tableofcontents
+   \def\tableofcontents{\@ifnextchar[{\origtableofcontents}{\gobbletableofcontents}}
+   \def\gobbletableofcontents#1{\origtableofcontents}
+ }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
+\title{DataSense: Data Intelligence}
+%\subtitle{}
+
+\usepackage{mymacros}
+
+\makeatother
+
+\usepackage{babel}
+\begin{document}
+
+\title[DataSense]{DataSense: Data Intelligence}
+\author{Pierre Zweigenbaum \& Bertrand Thirion}
+\institute[CNRS \& Inria]{LIMSI-CNRS \& Inria Saclay}
+\date[DigiCosme Research Days]{DigiCosme Research Days\\ Orsay, 12--13/4/2016}
+
+\makebeamertitle
+
+\input{datasense-introduction.tex}
+\input{teams.tex}
+
+\begin{frame}{Plan}
+\tableofcontents{}
+\end{frame}
+
+\section{Structuring}
+\input{action-lines.tex}
+
+\section{Activities}
+% Le découpage ci-dessous pourrait être revu : 
+\input{global-activity.tex}
+\input{wg.tex}
+\input{wg-activity.tex}
+
+
+\section{Perspectives}
+\begin{frame}{Plan}
+\tableofcontents{}[currentsection]
+\end{frame}
+
+\input{perspectives.tex}
+
+\end{document}
+
+
+%%% Local Variables: 
+%%% mode: latex
+%%% coding: utf-8-unix
+%%% ispell-local-dictionary: "english"
+%%% TeX-master: t
+%%% fill-column: 9999
+%%% End: 

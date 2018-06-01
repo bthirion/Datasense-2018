@@ -1,0 +1,161 @@
+%% -*- coding: utf-8 -*-
+\mode<presentation>
+\usetheme{Boadilla}
+\usecolortheme{seahorse}
+% pz
+\setbeamercolor{block body alerted}{bg=red!4,fg=black}
+\setbeamercolor{block title alerted}{bg=red!10,fg=red}
+\setbeamertemplate{navigation symbols}{}
+\RequirePackage{tikz,tikz-qtree}
+\usetikzlibrary{shapes,shapes.geometric,spy,shadows}
+% \RequirePackage[usenames,dvipsnames]{xcolor} % loads of named colors
+\RequirePackage{multirow}
+\RequirePackage{rotating}
+\RequirePackage{wasysym}
+
+% Fix bug
+\let\origframetitle\frametitle
+\renewcommand{\frametitle}[1]{%
+  \origframetitle{#1}\usebeamercolor*{normal text}%
+}
+\newcommand{\fixtextbug}{\usebeamercolor*{normal text}}
+% end fix bug
+\newcommand{\projet}[1]{\textcolor{blue}{#1}}
+
+\pgfdeclareimage[height=0.6cm]{logo-limsi}{Images/Logo-limsi-blanc.png}
+\pgfdeclareimage[height=0.6cm]{logo-digicosme}{Images/logo-digicosme.png}
+\logo{\pgfuseimage{logo-digicosme}}
+
+% Fig bug in babel+pgf
+%% http://tex.stackexchange.com/questions/74860/unexpected-clash-between-babel-and-pgf-spy
+\def\tikz@lib@spy@parse@opt[#1]{%
+    \let\tikz@spy@next=\tikz@lib@spy@parse@opta%
+    \ifnum\the\catcode`\;=\active\relax
+     \let\tikz@spy@next=\tikz@lib@spy@parse@opta@activesemicolon
+    \fi
+  \pgfutil@ifnextchar x{\tikz@spy@next[#1]}{\tikz@spy@next[#1]}%]
+}
+{
+\catcode`\;=\active
+\gdef\tikz@lib@spy@parse@opta@activesemicolon[#1]on#2in node#3;{%
+  \pgfutil@g@addto@macro\tikz@lib@spy@collection{\tikz@lib@spy@do{#1}{#2}{#3}}%
+}
+}
+% end fix bug
+
+\PrerenderUnicode{é}
+
+\newcommand{\ballref}[1]{\begin{pgfpicture}{-1ex}{-0.65ex}{1ex}{1ex}
+\usebeamercolor[fg]{item projected}
+
+{\pgftransformscale{1.75}\pgftext{\normalsize\pgfuseshading{bigsphere}}}
+{\pgftransformshift{\pgfpoint{0pt}{0.5pt}}
+\pgftext{\usebeamerfont*{item projected}\ref{#1}}}
+\end{pgfpicture}}%
+
+% inspiré de :
+% http://tex.stackexchange.com/questions/34921/how-to-overlap-images-in-a-beamer-slide
+% ajouté la spécification d'action <#1>
+\def\Put<#1>(#2,#3)#4{\begin{actionenv}<#1>\leavevmode\makebox(0,0){\put(#2,#3){#4}}\end{actionenv}}
+
+% \input{Schemas/classifieurs-tikz}
+
+\RequirePackage{pifont}
+\newcommand{\itemcross}{\scriptsize\raise1.25pt\hbox{\textcolor{red}{\ding{54}}}}
+\newcommand{\itemcheck}{\scriptsize\raise1.25pt\hbox{\textcolor{green}{\ding{52}}}}
+
+% Manuel, p. 71
+\newenvironment{checkenv}{\only{\setbeamertemplate{itemize item}{X}}}{}
+\newenvironment{blueenv}{\only{\color{blue}}}{\color{black}}
+% Manuel, p. 68
+\newcommand<>{\makered}[1]{{\color#2{red}#1}}
+\newcommand<>{\makeblue}[1]{{\color#2{blue}#1}}
+\newcommand<>{\makegreen}[1]{{\color#2{green}#1}}
+\newcommand<>{\anii}[1]{{\color#2{red}#1}}
+
+
+\def\newblock{\beamer@newblock}
+
+\renewcommand{\textquotedbl}{"}
+
+\definecolor{acier}{HTML}{3A8EBA}
+\definecolor{alezan}{HTML}{A76726}
+\definecolor{alizarine}{HTML}{D90115}
+\definecolor{amande}{HTML}{82C46C}
+\definecolor{ambre}{HTML}{F0C300}
+\definecolor{olive}{HTML}{40C380}
+
+\setbeamercolor{alertedtext}{fg=acier}
+
+\newcommand{\mentionb}[2]{\underline{#2}$_{#1}$}
+%% for linguistic expressions (words, terms, phrases...)
+\newcommand{\expr}[1]{\emph{#1}}
+%% for semantic types (i2b2, UMLS, etc.)
+\newcommand{\sem}[1]{\textsf{#1}}
+
+\setbeamersize{description width of={M}}
+
+\newlength{\mytableleftcolumn}
+
+%% de-identification
+\newcommand{\entity}[1]{\fbox{\emph{#1}}}
+\newcommand{\entityclass}[2]{\fbox{\emph{#1$_{#2}$}}}
+\newcommand{\nonentityclass}[2]{{\emph{#1$_{#2}$}}}
+
+%% François
+\newcommand{\thus}[0]{\ensuremath{\Rightarrow}}
+
+\definecolor{tred}{rgb}{0.8,0,0.4} % color values Red, Green, Blue
+\definecolor{myblue}{RGB}{88,147,165}
+\definecolor{mydarkblue}{RGB}{44,74,83}
+\definecolor{mygreen}{RGB}{30,147,0}
+\definecolor{myred}{RGB}{212,65,84}
+\definecolor{myorange}{RGB}{246,98,24}
+\definecolor{mygrey}{RGB}{153,153,153}
+\setbeamercolor{structure}{fg=myblue}
+\setbeamercolor{alerted text}{fg=myred}
+\setbeamercolor{example text}{fg=myorange}
+\setbeamertemplate{blocks}[rounded][shadow=true]
+\usetheme{Boadilla}
+% \usetheme{Luebeck}
+% \usetheme[compress]{Frankfurt}
+\usefonttheme[onlymath]{serif}
+
+\newcommand{\chunk}{bisegment}
+\newcommand{\chunks}{bisegments}
+\newcommand{\wer}{\textsc{Wer}\xspace}
+\newcommand{\per}{\textsc{Per}\xspace}
+\newcommand{\pfgram}{\textsc{posF}\xspace}
+\newcommand{\ppgram}{\textsc{posP}\xspace}
+\newcommand{\prgram}{\textsc{posR}\xspace}
+\newcommand{\wpfgram}{\textsc{wpF}\xspace}
+\newcommand{\ngram}{$n$-gram\xspace}
+\newcommand{\ngrams}{$n$-grams\xspace}
+\newcommand{\meteor}{\textsc{Meteor}\xspace}
+\newcommand{\ter}{\textsc{Ter}\xspace}
+
+
+%\includeonlyslides{modalign}
+% \logo{enst}
+\newcommand{\cc}{\ensuremath{\mathbf{c}}}
+\newcommand{\f}{\ensuremath{\mathbf{f}}}
+\newcommand{\e}{\ensuremath{\mathbf{e}}}
+\newcommand{\x}{\ensuremath{\mathbf{a}}}
+\newcommand{\bleu}{\textsc{BLEU}}
+\newcommand{\m}[1]{\colorbox{green!50}{#1}}
+\newcommand{\mm}[1]{\colorbox{green!80}{#1}}
+\newcommand{\entext}[1]{\textcolor{red}{#1}}
+\newcommand{\frtext}[1]{\textcolor{blue}{#1}}
+% \newcommand{<}{>}{\correct}[1]{\textcolor#2{mygreen}{#1}}
+\newcommand<>{\correct}[1]{\textcolor#2{mygreen}{#1}}
+\newcommand{\rotl}[1]{\begin{sideways}\begin{tabular}{c}#1\end{tabular}\end{sideways}}
+% set to, e.g., black@20 to see the help grid in TikZ pictures
+\def\tikzmygridcolor{black!0}
+
+\DeclareMathOperator{\Mult}{Mult}
+\DeclareMathOperator{\Dir}{Dir}
+\DeclareMathOperator{\Disc}{Disc}
+\DeclareMathOperator{\Unif}{Unif}
+\DeclareMathOperator{\Bin}{Bin}
+
+\newcommand{\contacturl}[1]{\vfill\par\hfill{\scriptsize \url{#1}}}
